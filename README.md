@@ -10,11 +10,11 @@
     <a href="#installation">Installation</a>
   </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/sairaj-balaji-7295b2246/"><img src="https://img.shields.io/badge/LinkedIn-Sairaj%20Balaji-0A66C2?logo=linkedin" alt="LinkedIn"></a>
-    <img src="https://img.shields.io/badge/MegaLoc-CVPR%202025-blue" alt="MegaLoc">
-    <img src="https://img.shields.io/badge/MASt3R-ECCV%202024-green" alt="MASt3R">
-    <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-    <img src="https://img.shields.io/badge/Python-3.10%2B-orange" alt="Python">
+    <a href="https://www.linkedin.com/in/sairaj-balaji-7295b2246/"><img src="https://img.shields.io/badge/LinkedIn-Sairaj%20Balaji-0A66C2?logo=linkedin&style=flat&labelColor=000000&logoColor=E5E4E2&color=66023C" alt="LinkedIn"></a>
+    <img src="https://img.shields.io/badge/MegaLoc-CVPR%202025-blue?style=flat&labelColor=000000&color=66023C" alt="MegaLoc">
+    <img src="https://img.shields.io/badge/MASt3R-ECCV%202024-green?style=flat&labelColor=000000&color=66023C" alt="MASt3R">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&labelColor=000000&color=66023C" alt="License">
+    <img src="https://img.shields.io/badge/Python-3.10%2B-orange?style=flat&labelColor=000000&color=66023C" alt="Python">
   </p>
 </p>
 
